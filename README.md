@@ -1,1 +1,1 @@
-https://pranava-sai-tech.github.io/RockPaperScissor/
+https://pranavasaikalagatla.github.io/RockPaperScissor
